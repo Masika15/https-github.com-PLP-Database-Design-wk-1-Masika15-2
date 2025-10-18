@@ -28,7 +28,7 @@ The app only recognizes city names in exact lowercase format, rejecting valid ci
 ---
 
 ### 🐞 BUG-002  
-**Title**: https://github.com/Masika15/wk-1-Masika15-2/blob/main/Issue%20%232  
+**Title**: App doesn’t handle city names with leading/trailing spaces  
 **GitHub Link**: https://github.com/Masika15/wk-1-Masika15-2/blob/main/Issue%20%232  
 **Requirement Affected**: UI Feedback  
 **Severity**: Medium  
