@@ -19,7 +19,7 @@ List 3 things you expect the Weather Checker app to do correctly.
 
 ### 🐞 BUG-001  
 **Title**: App doesn’t handle uppercase or mixed-case city names  
-**GitHub Link**: https://github.com/PLP-Database-Design/wk-1-Masika15-2/blob/main/Issue%20%231  
+**GitHub Link**: https://github.com/Masika15/https-github.com-PLP-Database-Design-wk-1-Masika15-2/blob/main/Issue%20%231 
 **Requirement Affected**: Input Validation  
 **Severity**: Medium  
 **Summary**:  
